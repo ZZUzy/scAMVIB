@@ -21,3 +21,5 @@ umap-learn==0.3.10
 snfpy==0.2.2
 vit-pytorch
 
+## Datasets
+The seven real multi-omics datasets used in this study can be categorized into two types based on their omics composition: the first type combines scRNA-seq and scATAC-seq data (containing mRNA and ATAC information), including the human cell line mixture CellLine dataset (GSE126074) and the human peripheral blood mononuclear cell PBMC3k dataset; the second type integrates scRNA-seq with scADT-seq data (containing mRNA and ADT information), comprising the umbilical cord blood mononuclear cell CBMN dataset (GSE100866) and two batches of mouse spleen lymph node data (SLN208 and SLN111 from GSE150599). All datasets were obtained from the [GEO database](https://www.ncbi.nlm.nih.gov/geo/) except for the human PBMC3k dataset, which was downloaded from the 10x [Genomics website](https://www.10xgenomics.com/).
