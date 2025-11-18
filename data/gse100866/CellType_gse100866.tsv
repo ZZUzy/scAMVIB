@@ -1,0 +1,1183 @@
+cell	type
+cell0	CD8+ T cells
+cell1	B cells
+cell2	CD4+ T cells
+cell3	CD8+ T cells
+cell4	CD4+ T cells
+cell5	CD8+ T cells
+cell6	CD4+ T cells
+cell7	CD4+ T cells
+cell8	CD14+ monocytes
+cell9	CD4+ T cells
+cell10	CD14+ monocytes
+cell11	CD8+ T cells
+cell12	CD4+ T cells
+cell13	CD8+ T cells
+cell14	CD4+ T cells
+cell15	CD4+ T cells
+cell16	CD4+ T cells
+cell17	CD14+ monocytes
+cell18	NK cells
+cell19	CD4+ T cells
+cell20	NK cells
+cell21	CD14+ monocytes
+cell22	CD4+ T cells
+cell23	CD4+ T cells
+cell24	CD4+ T cells
+cell25	NK cells
+cell26	B cells
+cell27	CD4+ T cells
+cell28	CD4+ T cells
+cell29	CD4+ T cells
+cell30	CD8+ T cells
+cell31	CD4+ T cells
+cell32	CD14+ monocytes
+cell33	CD8+ T cells
+cell34	CD4+ T cells
+cell35	CD4+ T cells
+cell36	B cells
+cell37	CD4+ T cells
+cell38	B cells
+cell39	CD4+ T cells
+cell40	CD4+ T cells
+cell41	CD14+ monocytes
+cell42	CD4+ T cells
+cell43	NK cells
+cell44	NK cells
+cell45	CD14+ monocytes
+cell46	CD14+ monocytes
+cell47	CD8+ T cells
+cell48	CD4+ T cells
+cell49	CD4+ T cells
+cell50	CD4+ T cells
+cell51	CD4+ T cells
+cell52	CD8+ T cells
+cell53	CD4+ T cells
+cell54	CD8+ T cells
+cell55	CD4+ T cells
+cell56	CD4+ T cells
+cell57	CD4+ T cells
+cell58	NK cells
+cell59	CD8+ T cells
+cell60	CD4+ T cells
+cell61	NK cells
+cell62	CD4+ T cells
+cell63	CD4+ T cells
+cell64	CD4+ T cells
+cell65	NK cells
+cell66	NK cells
+cell67	CD4+ T cells
+cell68	NK cells
+cell69	CD4+ T cells
+cell70	CD4+ T cells
+cell71	CD14+ monocytes
+cell72	CD4+ T cells
+cell73	CD4+ T cells
+cell74	CD8+ T cells
+cell75	CD4+ T cells
+cell76	CD8+ T cells
+cell77	CD14+ monocytes
+cell78	NK cells
+cell79	CD4+ T cells
+cell80	NK cells
+cell81	B cells
+cell82	CD8+ T cells
+cell83	CD4+ T cells
+cell84	B cells
+cell85	NK cells
+cell86	NK cells
+cell87	CD14+ monocytes
+cell88	CD4+ T cells
+cell89	CD8+ T cells
+cell90	CD4+ T cells
+cell91	CD14+ monocytes
+cell92	CD8+ T cells
+cell93	CD4+ T cells
+cell94	CD8+ T cells
+cell95	CD4+ T cells
+cell96	CD4+ T cells
+cell97	NK cells
+cell98	CD4+ T cells
+cell99	CD4+ T cells
+cell100	CD8+ T cells
+cell101	NK cells
+cell102	CD4+ T cells
+cell103	CD4+ T cells
+cell104	CD8+ T cells
+cell105	CD8+ T cells
+cell106	NK cells
+cell107	NK cells
+cell108	CD8+ T cells
+cell109	CD4+ T cells
+cell110	CD4+ T cells
+cell111	CD4+ T cells
+cell112	CD14+ monocytes
+cell113	CD4+ T cells
+cell114	B cells
+cell115	CD14+ monocytes
+cell116	NK cells
+cell117	NK cells
+cell118	CD8+ T cells
+cell119	NK cells
+cell120	CD4+ T cells
+cell121	CD4+ T cells
+cell122	CD4+ T cells
+cell123	CD4+ T cells
+cell124	CD8+ T cells
+cell125	CD4+ T cells
+cell126	NK cells
+cell127	NK cells
+cell128	CD4+ T cells
+cell129	NK cells
+cell130	CD4+ T cells
+cell131	CD4+ T cells
+cell132	CD4+ T cells
+cell133	CD8+ T cells
+cell134	CD4+ T cells
+cell135	CD14+ monocytes
+cell136	CD4+ T cells
+cell137	CD4+ T cells
+cell138	CD4+ T cells
+cell139	B cells
+cell140	NK cells
+cell141	NK cells
+cell142	NK cells
+cell143	NK cells
+cell144	CD4+ T cells
+cell145	CD4+ T cells
+cell146	CD8+ T cells
+cell147	CD4+ T cells
+cell148	CD4+ T cells
+cell149	CD8+ T cells
+cell150	CD4+ T cells
+cell151	CD14+ monocytes
+cell152	CD4+ T cells
+cell153	NK cells
+cell154	CD14+ monocytes
+cell155	B cells
+cell156	B cells
+cell157	CD4+ T cells
+cell158	NK cells
+cell159	CD4+ T cells
+cell160	CD14+ monocytes
+cell161	CD14+ monocytes
+cell162	CD4+ T cells
+cell163	NK cells
+cell164	CD8+ T cells
+cell165	CD14+ monocytes
+cell166	CD4+ T cells
+cell167	CD4+ T cells
+cell168	CD4+ T cells
+cell169	CD4+ T cells
+cell170	CD4+ T cells
+cell171	B cells
+cell172	CD4+ T cells
+cell173	CD4+ T cells
+cell174	NK cells
+cell175	CD4+ T cells
+cell176	CD4+ T cells
+cell177	CD4+ T cells
+cell178	CD4+ T cells
+cell179	NK cells
+cell180	CD4+ T cells
+cell181	NK cells
+cell182	CD8+ T cells
+cell183	CD4+ T cells
+cell184	CD4+ T cells
+cell185	CD4+ T cells
+cell186	CD4+ T cells
+cell187	CD4+ T cells
+cell188	CD4+ T cells
+cell189	NK cells
+cell190	CD4+ T cells
+cell191	NK cells
+cell192	NK cells
+cell193	CD8+ T cells
+cell194	NK cells
+cell195	CD4+ T cells
+cell196	CD4+ T cells
+cell197	CD14+ monocytes
+cell198	CD4+ T cells
+cell199	CD4+ T cells
+cell200	CD8+ T cells
+cell201	NK cells
+cell202	CD14+ monocytes
+cell203	CD8+ T cells
+cell204	NK cells
+cell205	CD14+ monocytes
+cell206	CD8+ T cells
+cell207	CD8+ T cells
+cell208	CD4+ T cells
+cell209	B cells
+cell210	CD14+ monocytes
+cell211	NK cells
+cell212	CD4+ T cells
+cell213	NK cells
+cell214	CD4+ T cells
+cell215	CD4+ T cells
+cell216	CD4+ T cells
+cell217	B cells
+cell218	NK cells
+cell219	CD8+ T cells
+cell220	CD4+ T cells
+cell221	NK cells
+cell222	CD8+ T cells
+cell223	CD14+ monocytes
+cell224	CD4+ T cells
+cell225	CD14+ monocytes
+cell226	CD4+ T cells
+cell227	CD4+ T cells
+cell228	NK cells
+cell229	CD16+ monocytes
+cell230	CD4+ T cells
+cell231	CD8+ T cells
+cell232	CD4+ T cells
+cell233	CD4+ T cells
+cell234	CD14+ monocytes
+cell235	CD4+ T cells
+cell236	CD8+ T cells
+cell237	CD4+ T cells
+cell238	CD4+ T cells
+cell239	NK cells
+cell240	CD8+ T cells
+cell241	NK cells
+cell242	CD8+ T cells
+cell243	CD4+ T cells
+cell244	NK cells
+cell245	CD4+ T cells
+cell246	CD4+ T cells
+cell247	CD14+ monocytes
+cell248	B cells
+cell249	B cells
+cell250	B cells
+cell251	CD4+ T cells
+cell252	NK cells
+cell253	CD8+ T cells
+cell254	CD8+ T cells
+cell255	CD8+ T cells
+cell256	B cells
+cell257	NK cells
+cell258	CD4+ T cells
+cell259	CD14+ monocytes
+cell260	CD4+ T cells
+cell261	CD4+ T cells
+cell262	CD4+ T cells
+cell263	CD4+ T cells
+cell264	CD4+ T cells
+cell265	CD14+ monocytes
+cell266	CD4+ T cells
+cell267	NK cells
+cell268	NK cells
+cell269	NK cells
+cell270	B cells
+cell271	NK cells
+cell272	CD8+ T cells
+cell273	CD4+ T cells
+cell274	CD4+ T cells
+cell275	CD14+ monocytes
+cell276	NK cells
+cell277	CD8+ T cells
+cell278	CD4+ T cells
+cell279	CD4+ T cells
+cell280	CD4+ T cells
+cell281	CD8+ T cells
+cell282	CD4+ T cells
+cell283	CD4+ T cells
+cell284	CD4+ T cells
+cell285	CD4+ T cells
+cell286	NK cells
+cell287	CD4+ T cells
+cell288	CD8+ T cells
+cell289	CD4+ T cells
+cell290	NK cells
+cell291	CD4+ T cells
+cell292	CD4+ T cells
+cell293	CD4+ T cells
+cell294	CD4+ T cells
+cell295	CD8+ T cells
+cell296	CD14+ monocytes
+cell297	CD8+ T cells
+cell298	CD4+ T cells
+cell299	CD4+ T cells
+cell300	NK cells
+cell301	NK cells
+cell302	CD4+ T cells
+cell303	CD4+ T cells
+cell304	CD4+ T cells
+cell305	CD4+ T cells
+cell306	CD4+ T cells
+cell307	CD4+ T cells
+cell308	CD8+ T cells
+cell309	CD4+ T cells
+cell310	B cells
+cell311	CD8+ T cells
+cell312	CD4+ T cells
+cell313	NK cells
+cell314	CD4+ T cells
+cell315	CD4+ T cells
+cell316	CD4+ T cells
+cell317	B cells
+cell318	CD4+ T cells
+cell319	CD8+ T cells
+cell320	CD4+ T cells
+cell321	CD4+ T cells
+cell322	CD4+ T cells
+cell323	CD4+ T cells
+cell324	CD14+ monocytes
+cell325	CD4+ T cells
+cell326	CD8+ T cells
+cell327	CD8+ T cells
+cell328	CD8+ T cells
+cell329	NK cells
+cell330	CD4+ T cells
+cell331	NK cells
+cell332	CD4+ T cells
+cell333	CD8+ T cells
+cell334	B cells
+cell335	CD8+ T cells
+cell336	CD4+ T cells
+cell337	CD4+ T cells
+cell338	CD14+ monocytes
+cell339	CD4+ T cells
+cell340	CD8+ T cells
+cell341	CD8+ T cells
+cell342	CD4+ T cells
+cell343	NK cells
+cell344	CD4+ T cells
+cell345	NK cells
+cell346	CD8+ T cells
+cell347	CD4+ T cells
+cell348	CD4+ T cells
+cell349	CD4+ T cells
+cell350	CD4+ T cells
+cell351	CD4+ T cells
+cell352	CD14+ monocytes
+cell353	CD4+ T cells
+cell354	CD4+ T cells
+cell355	CD14+ monocytes
+cell356	CD4+ T cells
+cell357	B cells
+cell358	CD14+ monocytes
+cell359	CD8+ T cells
+cell360	CD4+ T cells
+cell361	NK cells
+cell362	CD4+ T cells
+cell363	NK cells
+cell364	CD14+ monocytes
+cell365	NK cells
+cell366	CD4+ T cells
+cell367	CD14+ monocytes
+cell368	CD4+ T cells
+cell369	NK cells
+cell370	CD8+ T cells
+cell371	NK cells
+cell372	CD4+ T cells
+cell373	NK cells
+cell374	CD8+ T cells
+cell375	NK cells
+cell376	CD4+ T cells
+cell377	CD4+ T cells
+cell378	NK cells
+cell379	NK cells
+cell380	NK cells
+cell381	B cells
+cell382	CD4+ T cells
+cell383	CD4+ T cells
+cell384	CD8+ T cells
+cell385	CD8+ T cells
+cell386	CD8+ T cells
+cell387	CD4+ T cells
+cell388	CD8+ T cells
+cell389	CD8+ T cells
+cell390	CD8+ T cells
+cell391	CD4+ T cells
+cell392	CD8+ T cells
+cell393	NK cells
+cell394	CD4+ T cells
+cell395	CD4+ T cells
+cell396	CD4+ T cells
+cell397	CD14+ monocytes
+cell398	CD8+ T cells
+cell399	CD8+ T cells
+cell400	CD4+ T cells
+cell401	CD4+ T cells
+cell402	CD4+ T cells
+cell403	CD4+ T cells
+cell404	CD4+ T cells
+cell405	CD4+ T cells
+cell406	CD4+ T cells
+cell407	B cells
+cell408	CD14+ monocytes
+cell409	NK cells
+cell410	CD8+ T cells
+cell411	CD4+ T cells
+cell412	CD4+ T cells
+cell413	CD4+ T cells
+cell414	CD4+ T cells
+cell415	CD4+ T cells
+cell416	NK cells
+cell417	CD4+ T cells
+cell418	B cells
+cell419	B cells
+cell420	NK cells
+cell421	B cells
+cell422	CD4+ T cells
+cell423	CD4+ T cells
+cell424	NK cells
+cell425	CD4+ T cells
+cell426	CD14+ monocytes
+cell427	CD8+ T cells
+cell428	CD4+ T cells
+cell429	CD8+ T cells
+cell430	CD14+ monocytes
+cell431	CD4+ T cells
+cell432	CD4+ T cells
+cell433	NK cells
+cell434	B cells
+cell435	CD4+ T cells
+cell436	NK cells
+cell437	CD4+ T cells
+cell438	CD14+ monocytes
+cell439	NK cells
+cell440	CD4+ T cells
+cell441	NK cells
+cell442	CD4+ T cells
+cell443	CD4+ T cells
+cell444	NK cells
+cell445	CD4+ T cells
+cell446	CD4+ T cells
+cell447	CD4+ T cells
+cell448	CD14+ monocytes
+cell449	CD8+ T cells
+cell450	NK cells
+cell451	CD4+ T cells
+cell452	CD8+ T cells
+cell453	CD4+ T cells
+cell454	CD8+ T cells
+cell455	CD4+ T cells
+cell456	CD14+ monocytes
+cell457	CD4+ T cells
+cell458	CD8+ T cells
+cell459	CD4+ T cells
+cell460	CD4+ T cells
+cell461	CD4+ T cells
+cell462	CD4+ T cells
+cell463	NK cells
+cell464	CD4+ T cells
+cell465	CD4+ T cells
+cell466	CD8+ T cells
+cell467	CD14+ monocytes
+cell468	CD4+ T cells
+cell469	NK cells
+cell470	CD14+ monocytes
+cell471	CD4+ T cells
+cell472	CD4+ T cells
+cell473	CD14+ monocytes
+cell474	CD4+ T cells
+cell475	CD4+ T cells
+cell476	CD4+ T cells
+cell477	CD8+ T cells
+cell478	CD4+ T cells
+cell479	CD14+ monocytes
+cell480	CD4+ T cells
+cell481	B cells
+cell482	CD4+ T cells
+cell483	CD8+ T cells
+cell484	NK cells
+cell485	CD4+ T cells
+cell486	CD4+ T cells
+cell487	CD14+ monocytes
+cell488	NK cells
+cell489	CD4+ T cells
+cell490	CD14+ monocytes
+cell491	CD4+ T cells
+cell492	CD8+ T cells
+cell493	CD8+ T cells
+cell494	CD4+ T cells
+cell495	CD4+ T cells
+cell496	CD8+ T cells
+cell497	CD4+ T cells
+cell498	CD4+ T cells
+cell499	CD4+ T cells
+cell500	CD4+ T cells
+cell501	CD4+ T cells
+cell502	CD8+ T cells
+cell503	CD4+ T cells
+cell504	CD4+ T cells
+cell505	CD4+ T cells
+cell506	CD8+ T cells
+cell507	CD8+ T cells
+cell508	CD8+ T cells
+cell509	CD4+ T cells
+cell510	CD8+ T cells
+cell511	CD4+ T cells
+cell512	CD4+ T cells
+cell513	CD4+ T cells
+cell514	CD14+ monocytes
+cell515	CD14+ monocytes
+cell516	CD14+ monocytes
+cell517	CD14+ monocytes
+cell518	CD8+ T cells
+cell519	CD8+ T cells
+cell520	CD4+ T cells
+cell521	B cells
+cell522	NK cells
+cell523	CD4+ T cells
+cell524	B cells
+cell525	CD8+ T cells
+cell526	NK cells
+cell527	CD4+ T cells
+cell528	CD8+ T cells
+cell529	B cells
+cell530	CD4+ T cells
+cell531	CD4+ T cells
+cell532	CD4+ T cells
+cell533	B cells
+cell534	CD4+ T cells
+cell535	CD14+ monocytes
+cell536	CD8+ T cells
+cell537	CD4+ T cells
+cell538	CD4+ T cells
+cell539	CD4+ T cells
+cell540	CD4+ T cells
+cell541	CD8+ T cells
+cell542	CD8+ T cells
+cell543	CD8+ T cells
+cell544	NK cells
+cell545	CD4+ T cells
+cell546	NK cells
+cell547	CD14+ monocytes
+cell548	NK cells
+cell549	CD4+ T cells
+cell550	CD8+ T cells
+cell551	CD8+ T cells
+cell552	NK cells
+cell553	CD4+ T cells
+cell554	CD4+ T cells
+cell555	CD14+ monocytes
+cell556	CD4+ T cells
+cell557	CD8+ T cells
+cell558	CD4+ T cells
+cell559	CD4+ T cells
+cell560	NK cells
+cell561	CD4+ T cells
+cell562	CD4+ T cells
+cell563	CD4+ T cells
+cell564	CD4+ T cells
+cell565	CD8+ T cells
+cell566	CD8+ T cells
+cell567	CD4+ T cells
+cell568	NK cells
+cell569	CD4+ T cells
+cell570	CD8+ T cells
+cell571	CD4+ T cells
+cell572	CD4+ T cells
+cell573	NK cells
+cell574	CD4+ T cells
+cell575	CD8+ T cells
+cell576	NK cells
+cell577	CD4+ T cells
+cell578	CD4+ T cells
+cell579	CD4+ T cells
+cell580	CD4+ T cells
+cell581	CD4+ T cells
+cell582	NK cells
+cell583	CD4+ T cells
+cell584	CD8+ T cells
+cell585	CD8+ T cells
+cell586	CD4+ T cells
+cell587	CD14+ monocytes
+cell588	CD4+ T cells
+cell589	CD4+ T cells
+cell590	CD4+ T cells
+cell591	NK cells
+cell592	CD4+ T cells
+cell593	NK cells
+cell594	NK cells
+cell595	CD8+ T cells
+cell596	CD4+ T cells
+cell597	CD4+ T cells
+cell598	CD4+ T cells
+cell599	NK cells
+cell600	CD8+ T cells
+cell601	CD8+ T cells
+cell602	NK cells
+cell603	CD14+ monocytes
+cell604	CD4+ T cells
+cell605	CD8+ T cells
+cell606	CD4+ T cells
+cell607	CD4+ T cells
+cell608	NK cells
+cell609	CD8+ T cells
+cell610	CD4+ T cells
+cell611	CD4+ T cells
+cell612	CD4+ T cells
+cell613	CD8+ T cells
+cell614	CD4+ T cells
+cell615	CD4+ T cells
+cell616	CD8+ T cells
+cell617	CD4+ T cells
+cell618	NK cells
+cell619	CD4+ T cells
+cell620	CD4+ T cells
+cell621	CD4+ T cells
+cell622	CD8+ T cells
+cell623	NK cells
+cell624	CD4+ T cells
+cell625	NK cells
+cell626	NK cells
+cell627	NK cells
+cell628	CD4+ T cells
+cell629	NK cells
+cell630	CD4+ T cells
+cell631	CD4+ T cells
+cell632	CD4+ T cells
+cell633	CD4+ T cells
+cell634	CD4+ T cells
+cell635	NK cells
+cell636	CD8+ T cells
+cell637	CD4+ T cells
+cell638	CD4+ T cells
+cell639	CD8+ T cells
+cell640	CD4+ T cells
+cell641	CD16+ monocytes
+cell642	CD8+ T cells
+cell643	B cells
+cell644	CD4+ T cells
+cell645	CD4+ T cells
+cell646	CD8+ T cells
+cell647	NK cells
+cell648	CD4+ T cells
+cell649	CD8+ T cells
+cell650	CD16+ monocytes
+cell651	CD4+ T cells
+cell652	NK cells
+cell653	CD8+ T cells
+cell654	CD4+ T cells
+cell655	CD14+ monocytes
+cell656	CD4+ T cells
+cell657	NK cells
+cell658	CD4+ T cells
+cell659	CD4+ T cells
+cell660	CD4+ T cells
+cell661	CD4+ T cells
+cell662	CD4+ T cells
+cell663	CD4+ T cells
+cell664	B cells
+cell665	CD8+ T cells
+cell666	CD14+ monocytes
+cell667	CD8+ T cells
+cell668	CD4+ T cells
+cell669	CD14+ monocytes
+cell670	CD4+ T cells
+cell671	NK cells
+cell672	NK cells
+cell673	CD8+ T cells
+cell674	CD8+ T cells
+cell675	CD8+ T cells
+cell676	CD4+ T cells
+cell677	CD4+ T cells
+cell678	CD4+ T cells
+cell679	CD4+ T cells
+cell680	NK cells
+cell681	CD4+ T cells
+cell682	B cells
+cell683	CD4+ T cells
+cell684	CD4+ T cells
+cell685	CD4+ T cells
+cell686	CD8+ T cells
+cell687	CD8+ T cells
+cell688	CD4+ T cells
+cell689	B cells
+cell690	NK cells
+cell691	CD4+ T cells
+cell692	CD8+ T cells
+cell693	NK cells
+cell694	CD14+ monocytes
+cell695	NK cells
+cell696	CD4+ T cells
+cell697	CD4+ T cells
+cell698	CD4+ T cells
+cell699	CD4+ T cells
+cell700	B cells
+cell701	CD4+ T cells
+cell702	CD4+ T cells
+cell703	CD8+ T cells
+cell704	CD8+ T cells
+cell705	CD4+ T cells
+cell706	CD16+ monocytes
+cell707	CD4+ T cells
+cell708	CD4+ T cells
+cell709	NK cells
+cell710	CD8+ T cells
+cell711	CD8+ T cells
+cell712	B cells
+cell713	CD8+ T cells
+cell714	CD4+ T cells
+cell715	CD4+ T cells
+cell716	NK cells
+cell717	NK cells
+cell718	CD4+ T cells
+cell719	CD4+ T cells
+cell720	CD4+ T cells
+cell721	CD4+ T cells
+cell722	B cells
+cell723	CD4+ T cells
+cell724	CD4+ T cells
+cell725	CD4+ T cells
+cell726	CD8+ T cells
+cell727	CD8+ T cells
+cell728	CD4+ T cells
+cell729	NK cells
+cell730	CD4+ T cells
+cell731	CD14+ monocytes
+cell732	NK cells
+cell733	CD8+ T cells
+cell734	CD4+ T cells
+cell735	CD4+ T cells
+cell736	NK cells
+cell737	CD8+ T cells
+cell738	CD8+ T cells
+cell739	CD8+ T cells
+cell740	CD14+ monocytes
+cell741	CD4+ T cells
+cell742	CD16+ monocytes
+cell743	CD4+ T cells
+cell744	CD8+ T cells
+cell745	NK cells
+cell746	CD8+ T cells
+cell747	CD4+ T cells
+cell748	CD14+ monocytes
+cell749	CD8+ T cells
+cell750	CD4+ T cells
+cell751	NK cells
+cell752	CD4+ T cells
+cell753	CD4+ T cells
+cell754	CD4+ T cells
+cell755	CD4+ T cells
+cell756	CD8+ T cells
+cell757	CD8+ T cells
+cell758	CD8+ T cells
+cell759	CD8+ T cells
+cell760	CD4+ T cells
+cell761	NK cells
+cell762	CD4+ T cells
+cell763	CD4+ T cells
+cell764	CD8+ T cells
+cell765	NK cells
+cell766	B cells
+cell767	CD8+ T cells
+cell768	CD14+ monocytes
+cell769	CD14+ monocytes
+cell770	CD4+ T cells
+cell771	CD16+ monocytes
+cell772	CD8+ T cells
+cell773	CD14+ monocytes
+cell774	NK cells
+cell775	CD4+ T cells
+cell776	NK cells
+cell777	NK cells
+cell778	CD4+ T cells
+cell779	CD4+ T cells
+cell780	CD4+ T cells
+cell781	CD8+ T cells
+cell782	CD4+ T cells
+cell783	B cells
+cell784	CD8+ T cells
+cell785	NK cells
+cell786	CD4+ T cells
+cell787	CD8+ T cells
+cell788	CD4+ T cells
+cell789	CD4+ T cells
+cell790	CD8+ T cells
+cell791	CD4+ T cells
+cell792	CD8+ T cells
+cell793	CD4+ T cells
+cell794	CD4+ T cells
+cell795	NK cells
+cell796	B cells
+cell797	CD4+ T cells
+cell798	CD4+ T cells
+cell799	NK cells
+cell800	CD8+ T cells
+cell801	CD8+ T cells
+cell802	CD8+ T cells
+cell803	CD4+ T cells
+cell804	CD4+ T cells
+cell805	CD4+ T cells
+cell806	CD4+ T cells
+cell807	CD8+ T cells
+cell808	CD14+ monocytes
+cell809	CD14+ monocytes
+cell810	B cells
+cell811	CD4+ T cells
+cell812	NK cells
+cell813	CD4+ T cells
+cell814	CD8+ T cells
+cell815	NK cells
+cell816	CD8+ T cells
+cell817	CD4+ T cells
+cell818	CD4+ T cells
+cell819	CD4+ T cells
+cell820	CD4+ T cells
+cell821	CD4+ T cells
+cell822	CD4+ T cells
+cell823	CD4+ T cells
+cell824	CD4+ T cells
+cell825	CD4+ T cells
+cell826	CD14+ monocytes
+cell827	CD14+ monocytes
+cell828	NK cells
+cell829	CD4+ T cells
+cell830	CD4+ T cells
+cell831	CD4+ T cells
+cell832	NK cells
+cell833	CD14+ monocytes
+cell834	CD4+ T cells
+cell835	NK cells
+cell836	CD8+ T cells
+cell837	CD8+ T cells
+cell838	CD4+ T cells
+cell839	CD4+ T cells
+cell840	NK cells
+cell841	NK cells
+cell842	NK cells
+cell843	CD8+ T cells
+cell844	CD4+ T cells
+cell845	CD4+ T cells
+cell846	CD14+ monocytes
+cell847	CD4+ T cells
+cell848	B cells
+cell849	CD4+ T cells
+cell850	NK cells
+cell851	CD4+ T cells
+cell852	NK cells
+cell853	NK cells
+cell854	CD4+ T cells
+cell855	B cells
+cell856	CD8+ T cells
+cell857	CD4+ T cells
+cell858	CD8+ T cells
+cell859	CD8+ T cells
+cell860	NK cells
+cell861	CD4+ T cells
+cell862	CD4+ T cells
+cell863	NK cells
+cell864	B cells
+cell865	CD4+ T cells
+cell866	CD4+ T cells
+cell867	NK cells
+cell868	CD4+ T cells
+cell869	CD8+ T cells
+cell870	B cells
+cell871	CD4+ T cells
+cell872	B cells
+cell873	CD4+ T cells
+cell874	CD4+ T cells
+cell875	CD4+ T cells
+cell876	CD8+ T cells
+cell877	CD4+ T cells
+cell878	CD4+ T cells
+cell879	CD4+ T cells
+cell880	CD8+ T cells
+cell881	CD4+ T cells
+cell882	CD4+ T cells
+cell883	NK cells
+cell884	CD8+ T cells
+cell885	NK cells
+cell886	CD4+ T cells
+cell887	B cells
+cell888	NK cells
+cell889	CD8+ T cells
+cell890	CD8+ T cells
+cell891	CD4+ T cells
+cell892	CD4+ T cells
+cell893	CD8+ T cells
+cell894	CD4+ T cells
+cell895	CD4+ T cells
+cell896	CD14+ monocytes
+cell897	CD4+ T cells
+cell898	CD4+ T cells
+cell899	CD4+ T cells
+cell900	CD8+ T cells
+cell901	CD14+ monocytes
+cell902	B cells
+cell903	CD4+ T cells
+cell904	NK cells
+cell905	CD4+ T cells
+cell906	NK cells
+cell907	CD4+ T cells
+cell908	NK cells
+cell909	NK cells
+cell910	CD4+ T cells
+cell911	CD14+ monocytes
+cell912	CD4+ T cells
+cell913	NK cells
+cell914	CD4+ T cells
+cell915	CD8+ T cells
+cell916	CD4+ T cells
+cell917	CD4+ T cells
+cell918	CD4+ T cells
+cell919	CD4+ T cells
+cell920	CD4+ T cells
+cell921	CD8+ T cells
+cell922	CD4+ T cells
+cell923	NK cells
+cell924	NK cells
+cell925	CD4+ T cells
+cell926	NK cells
+cell927	CD4+ T cells
+cell928	CD8+ T cells
+cell929	CD8+ T cells
+cell930	B cells
+cell931	CD4+ T cells
+cell932	CD14+ monocytes
+cell933	CD4+ T cells
+cell934	CD4+ T cells
+cell935	NK cells
+cell936	CD8+ T cells
+cell937	CD4+ T cells
+cell938	NK cells
+cell939	CD14+ monocytes
+cell940	NK cells
+cell941	NK cells
+cell942	CD8+ T cells
+cell943	CD8+ T cells
+cell944	CD4+ T cells
+cell945	CD8+ T cells
+cell946	CD4+ T cells
+cell947	CD8+ T cells
+cell948	NK cells
+cell949	CD4+ T cells
+cell950	NK cells
+cell951	CD4+ T cells
+cell952	NK cells
+cell953	NK cells
+cell954	CD4+ T cells
+cell955	CD4+ T cells
+cell956	CD4+ T cells
+cell957	B cells
+cell958	CD4+ T cells
+cell959	CD14+ monocytes
+cell960	CD4+ T cells
+cell961	NK cells
+cell962	CD4+ T cells
+cell963	NK cells
+cell964	CD4+ T cells
+cell965	NK cells
+cell966	NK cells
+cell967	CD4+ T cells
+cell968	CD4+ T cells
+cell969	CD4+ T cells
+cell970	B cells
+cell971	NK cells
+cell972	CD4+ T cells
+cell973	CD4+ T cells
+cell974	CD4+ T cells
+cell975	CD8+ T cells
+cell976	CD4+ T cells
+cell977	CD4+ T cells
+cell978	CD8+ T cells
+cell979	CD14+ monocytes
+cell980	CD14+ monocytes
+cell981	CD4+ T cells
+cell982	B cells
+cell983	CD4+ T cells
+cell984	CD8+ T cells
+cell985	NK cells
+cell986	CD8+ T cells
+cell987	CD4+ T cells
+cell988	CD8+ T cells
+cell989	CD8+ T cells
+cell990	CD8+ T cells
+cell991	CD4+ T cells
+cell992	CD4+ T cells
+cell993	CD4+ T cells
+cell994	CD16+ monocytes
+cell995	CD14+ monocytes
+cell996	CD8+ T cells
+cell997	NK cells
+cell998	B cells
+cell999	CD4+ T cells
+cell1000	CD8+ T cells
+cell1001	CD14+ monocytes
+cell1002	CD4+ T cells
+cell1003	CD4+ T cells
+cell1004	CD4+ T cells
+cell1005	NK cells
+cell1006	CD8+ T cells
+cell1007	CD4+ T cells
+cell1008	CD8+ T cells
+cell1009	CD4+ T cells
+cell1010	NK cells
+cell1011	CD4+ T cells
+cell1012	NK cells
+cell1013	CD4+ T cells
+cell1014	NK cells
+cell1015	NK cells
+cell1016	CD14+ monocytes
+cell1017	CD8+ T cells
+cell1018	CD4+ T cells
+cell1019	CD4+ T cells
+cell1020	CD4+ T cells
+cell1021	CD4+ T cells
+cell1022	NK cells
+cell1023	NK cells
+cell1024	CD8+ T cells
+cell1025	CD14+ monocytes
+cell1026	CD8+ T cells
+cell1027	CD4+ T cells
+cell1028	CD4+ T cells
+cell1029	CD4+ T cells
+cell1030	NK cells
+cell1031	CD14+ monocytes
+cell1032	NK cells
+cell1033	CD4+ T cells
+cell1034	CD4+ T cells
+cell1035	NK cells
+cell1036	CD4+ T cells
+cell1037	CD4+ T cells
+cell1038	CD14+ monocytes
+cell1039	NK cells
+cell1040	CD4+ T cells
+cell1041	CD4+ T cells
+cell1042	CD4+ T cells
+cell1043	CD8+ T cells
+cell1044	CD4+ T cells
+cell1045	CD8+ T cells
+cell1046	CD8+ T cells
+cell1047	CD4+ T cells
+cell1048	CD4+ T cells
+cell1049	CD4+ T cells
+cell1050	CD4+ T cells
+cell1051	CD4+ T cells
+cell1052	NK cells
+cell1053	CD4+ T cells
+cell1054	NK cells
+cell1055	CD14+ monocytes
+cell1056	B cells
+cell1057	NK cells
+cell1058	CD8+ T cells
+cell1059	B cells
+cell1060	CD4+ T cells
+cell1061	CD4+ T cells
+cell1062	CD4+ T cells
+cell1063	CD4+ T cells
+cell1064	CD8+ T cells
+cell1065	NK cells
+cell1066	CD4+ T cells
+cell1067	CD4+ T cells
+cell1068	NK cells
+cell1069	CD4+ T cells
+cell1070	NK cells
+cell1071	NK cells
+cell1072	CD14+ monocytes
+cell1073	NK cells
+cell1074	B cells
+cell1075	CD4+ T cells
+cell1076	CD4+ T cells
+cell1077	CD4+ T cells
+cell1078	CD4+ T cells
+cell1079	CD4+ T cells
+cell1080	B cells
+cell1081	NK cells
+cell1082	B cells
+cell1083	CD14+ monocytes
+cell1084	B cells
+cell1085	NK cells
+cell1086	CD4+ T cells
+cell1087	CD8+ T cells
+cell1088	B cells
+cell1089	CD4+ T cells
+cell1090	CD4+ T cells
+cell1091	CD4+ T cells
+cell1092	NK cells
+cell1093	CD14+ monocytes
+cell1094	NK cells
+cell1095	CD4+ T cells
+cell1096	CD8+ T cells
+cell1097	CD8+ T cells
+cell1098	CD4+ T cells
+cell1099	CD4+ T cells
+cell1100	NK cells
+cell1101	CD4+ T cells
+cell1102	CD8+ T cells
+cell1103	CD8+ T cells
+cell1104	CD4+ T cells
+cell1105	CD8+ T cells
+cell1106	CD14+ monocytes
+cell1107	NK cells
+cell1108	CD8+ T cells
+cell1109	NK cells
+cell1110	CD4+ T cells
+cell1111	CD4+ T cells
+cell1112	CD4+ T cells
+cell1113	NK cells
+cell1114	B cells
+cell1115	CD4+ T cells
+cell1116	NK cells
+cell1117	CD4+ T cells
+cell1118	CD8+ T cells
+cell1119	NK cells
+cell1120	B cells
+cell1121	CD4+ T cells
+cell1122	CD4+ T cells
+cell1123	CD14+ monocytes
+cell1124	CD8+ T cells
+cell1125	CD4+ T cells
+cell1126	CD4+ T cells
+cell1127	CD4+ T cells
+cell1128	CD8+ T cells
+cell1129	CD4+ T cells
+cell1130	CD4+ T cells
+cell1131	CD4+ T cells
+cell1132	CD4+ T cells
+cell1133	CD4+ T cells
+cell1134	CD8+ T cells
+cell1135	CD4+ T cells
+cell1136	CD8+ T cells
+cell1137	CD8+ T cells
+cell1138	CD4+ T cells
+cell1139	CD4+ T cells
+cell1140	CD4+ T cells
+cell1141	CD4+ T cells
+cell1142	CD4+ T cells
+cell1143	NK cells
+cell1144	NK cells
+cell1145	B cells
+cell1146	CD14+ monocytes
+cell1147	CD4+ T cells
+cell1148	CD4+ T cells
+cell1149	CD4+ T cells
+cell1150	CD4+ T cells
+cell1151	CD8+ T cells
+cell1152	CD4+ T cells
+cell1153	CD8+ T cells
+cell1154	CD8+ T cells
+cell1155	B cells
+cell1156	CD4+ T cells
+cell1157	CD8+ T cells
+cell1158	CD4+ T cells
+cell1159	CD4+ T cells
+cell1160	CD4+ T cells
+cell1161	CD4+ T cells
+cell1162	NK cells
+cell1163	CD8+ T cells
+cell1164	NK cells
+cell1165	NK cells
+cell1166	CD4+ T cells
+cell1167	B cells
+cell1168	CD8+ T cells
+cell1169	CD4+ T cells
+cell1170	NK cells
+cell1171	CD4+ T cells
+cell1172	CD4+ T cells
+cell1173	CD4+ T cells
+cell1174	CD4+ T cells
+cell1175	CD4+ T cells
+cell1176	B cells
+cell1177	CD14+ monocytes
+cell1178	CD4+ T cells
+cell1179	CD8+ T cells
+cell1180	CD4+ T cells
+cell1181	CD8+ T cells
