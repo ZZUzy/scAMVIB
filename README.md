@@ -2,7 +2,8 @@
 ## Introduction
 This repository introduces scAMVIB, an adaptive multi-view clustering method based on the variational information bottleneck framework. Our approach uses similarity network fusion to construct an omics-fused sample matrix that captures intrinsic inter-omics relationships, while integrating it with distinct omics profiles to build a unified multi-view feature space—effectively redefining the analytical framework for single-cell multi-omics data.
 ## Framework
-[Framework.pdf](https://github.com/user-attachments/files/23602916/Framework.pdf)
+<img width="895" height="965" alt="image" src="https://github.com/user-attachments/assets/f1d49d04-c9de-4ae4-92a6-960af8c8fa15" />
+
 
 ## System Requirements
 The required python dependencies are given below. 
